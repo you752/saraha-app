@@ -84,30 +84,6 @@ npm install
 
 Create `.env`
 
-```env
-PORT=
-DATABASE_URL=
-SALT=
-USER_SIGNATURE=
-ADMIN_SIGNATURE=
-USER_REFRESH_SIGNATURE=
-ADMIN_REFRESH_SIGNATURE=
-
-GOOGLE_ACCOUNT=
-PASSWORD_ACCOUNT=
-
-REDIS_URL=
-REDIS_TOKEN=
-```
-
-Run the project
-
-```bash
-npm run dev
-```
-
----
-
 ## 📮 API Endpoints
 
 ### Authentication
